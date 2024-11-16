@@ -1,0 +1,16 @@
+{
+  "Group": "Customers",
+  "FriendlyName": "Dynamics CRM Integration",
+  "SystemName": "Nop.Plugin.Customers.DynamicsIntegration",
+  "Version": "4.50.0",
+  "SupportedVersions": [ "4.50" ],
+  "Author": "Ahmed Gamal",
+  "DisplayOrder": 1,
+  "FileName": "Nop.Plugin.Customers.DynamicsIntegration.dll",
+  "Description": "Integration with Microsoft Dynamics CRM for managing customer data.",
+  "Category": "Integration",
+  "Icon": "icon.png",
+  "Dependencies": [],
+  "LimitedToStores": [],
+  "LimitedToCustomerRoles": []
+}
